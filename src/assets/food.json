@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "Ayam Penyet",
+        "description" : "Geprek ayam mantap dan enak, dan free es teh",
+        "price" : 15000,
+        "image" : "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "title" : "Nasi Goreng Solaria",
+        "description" : "Nasi goreng enak tapi mahal",
+        "price" : 40000,
+        "image" : "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "title" : "Recheese Fire Chicken",
+        "description" : "Ayam pemadam pedas mampus",
+        "price" : 150000,
+        "image" : "https://www.seriouseats.com/thmb/4w7Wi6GkBOLUR1wFZRD4JEDGLlE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__01__20190111-buldak-korean-fire-chicken-vicky-wasik-20-1500x1125-9e981d23c5894e47bbe4c664ec662d7a.jpg"
+    }
+]
